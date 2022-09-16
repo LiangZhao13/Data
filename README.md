@@ -1,5 +1,5 @@
 # Data for: A Multi-objective Optimization Based Path Planning Approach for Unmanned Surface Vehicles
-This is the original data for the author's ariticle: *A Multi-objective Optimization Based Path Planning Approach for Unmanned Surface Vehicles*. Submitted to *Ships and Offshore Structures*. 
+This is the original data for the author's ariticle: *A Multi-objective Optimization Based Path Planning Approach for Unmanned Surface Vehicles*. 
 
 ### Requirements:
 MATLAB 2021a is preferred.\
